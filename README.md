@@ -1,2 +1,1 @@
-# foss-lab
 # fosslab
